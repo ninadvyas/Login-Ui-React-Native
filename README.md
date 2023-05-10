@@ -1,14 +1,14 @@
-# Login-SignUp-UI-React-Native
+# Login-SignUp-UI-React-Native📱
 
-![Image](https://cdn.dribbble.com/userupload/5815631/file/original-5b6d7bdf59defe4156b0cb25607ab182.png?compress=1&resize=1024x768)
+![final](https://github.com/NinadVyas/Login-Ui-React-Native/assets/115214615/13c2114b-5dc2-4c62-97fa-3967bb923c93)
 
-## Get Started
+## ◉ Get Started
 
 install dev dependencies
 
 ### `npm install` or `yarn install`
 
-## Then
+## ◉ Then
 
 Run The app
 
@@ -24,4 +24,5 @@ Like `npm start` / `yarn start`, but also attempts to open your app in the iOS S
 
 #### `npm run android` or `yarn run android`
 
-Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
+Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. 
+Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
